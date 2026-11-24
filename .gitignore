@@ -1,0 +1,19 @@
+# Foundry build artifacts
+cache/
+out/
+broadcast/
+
+# Local environment
+.env
+.env.*
+!.env.example
+.venv/
+
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+
+# Instructor-only FV-02 solutions
+FV02-solution/
